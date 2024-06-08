@@ -84,7 +84,7 @@ body{
     padding-top: 10px;
 }
 .btn::before{
-    content: url("product-component-card/blob/main/icon-cart.svg");
+    content: url("./icon-cart.svg");
     margin: 10px;
     
 }
@@ -126,7 +126,7 @@ body{
     }
     #product{
         width: 100%;
-        background-image: url("./images/image-product-mobile.jpg");
+        background-image: url("./image-product-mobile.jpg");
         background-size: cover;
         height: 400px;
         object-fit: cover;
