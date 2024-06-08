@@ -84,7 +84,7 @@ body{
     padding-top: 10px;
 }
 .btn::before{
-    content: url("icon-cart.svg");
+    content: url("product-component-card/blob/main/icon-cart.svg");
     margin: 10px;
     
 }
